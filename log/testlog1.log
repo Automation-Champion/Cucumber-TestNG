@@ -256,3 +256,63 @@
 2018-12-17 12:16:04,515 [main] INFO ecommerce - clicking on save
 2018-12-17 12:16:06,154 [main] INFO ecommerce - validation started....
 2018-12-17 12:16:06,345 [main] INFO ecommerce - test case passed....
+2020-01-04 12:53:47,400 [main] INFO ecommerce - User name is provided
+2020-01-04 12:53:47,561 [main] INFO ecommerce - password is provided
+2020-01-04 12:54:01,961 [main] INFO ecommerce - providing customer details....
+2020-01-04 12:54:18,517 [main] INFO ecommerce - Providing email
+2020-01-04 12:54:18,864 [main] INFO ecommerce - Providing password
+2020-01-04 12:54:19,045 [main] INFO ecommerce - Providing Customer roles
+2020-01-04 13:02:25,519 [main] INFO ecommerce - User provided......
+2020-01-04 13:02:25,697 [main] INFO ecommerce - Password provided......
+2020-01-04 13:02:29,507 [main] INFO ecommerce - Login in Clicked......
+2020-01-04 13:02:38,126 [main] INFO ecommerce - Login Passed.....
+2020-01-04 13:03:01,203 [main] INFO ecommerce - User provided
+2020-01-04 13:03:01,351 [main] INFO ecommerce - Password provided
+2020-01-04 13:03:06,170 [main] INFO ecommerce - Login in Clicked
+2020-01-04 13:03:10,143 [main] INFO ecommerce - User provided
+2020-01-04 13:03:10,270 [main] INFO ecommerce - Password provided
+2020-01-04 13:03:10,836 [main] INFO ecommerce - Login in Clicked
+2020-01-04 13:03:12,845 [main] INFO ecommerce - Login Failed
+2020-01-04 13:03:14,258 [main] INFO ecommerce - User provided
+2020-01-04 13:03:14,492 [main] INFO ecommerce - Password provided
+2020-01-04 13:03:15,563 [main] INFO ecommerce - Login in Clicked
+2020-01-04 13:03:17,571 [main] INFO ecommerce - Login Failed
+2020-01-04 13:03:19,613 [main] INFO ecommerce - User provided
+2020-01-04 13:03:19,744 [main] INFO ecommerce - Password provided
+2020-01-04 13:03:20,989 [main] INFO ecommerce - Login in Clicked
+2020-01-04 13:03:22,998 [main] INFO ecommerce - Login Failed
+2020-01-04 13:03:34,164 [main] INFO ecommerce - User name is provided
+2020-01-04 13:03:34,349 [main] INFO ecommerce - password is provided
+2020-01-04 13:03:37,847 [main] INFO ecommerce - providing customer details....
+2020-01-04 13:03:45,119 [main] INFO ecommerce - Providing email
+2020-01-04 13:03:45,417 [main] INFO ecommerce - Providing password
+2020-01-04 13:03:45,720 [main] INFO ecommerce - Providing Customer roles
+2020-01-04 13:07:47,210 [main] INFO ecommerce - User provided......
+2020-01-04 13:07:47,370 [main] INFO ecommerce - Password provided......
+2020-01-04 13:07:54,886 [main] INFO ecommerce - Login in Clicked......
+2020-01-04 13:08:03,293 [main] INFO ecommerce - Login Passed.....
+2020-01-04 13:08:19,526 [main] INFO ecommerce - User provided
+2020-01-04 13:08:19,721 [main] INFO ecommerce - Password provided
+2020-01-04 13:08:26,843 [main] INFO ecommerce - Login in Clicked
+2020-01-04 13:08:32,334 [main] INFO ecommerce - User provided
+2020-01-04 13:08:32,450 [main] INFO ecommerce - Password provided
+2020-01-04 13:08:32,978 [main] INFO ecommerce - Login in Clicked
+2020-01-04 13:08:34,987 [main] INFO ecommerce - Login Failed
+2020-01-04 13:08:35,911 [main] INFO ecommerce - User provided
+2020-01-04 13:08:36,090 [main] INFO ecommerce - Password provided
+2020-01-04 13:08:36,952 [main] INFO ecommerce - Login in Clicked
+2020-01-04 13:08:38,961 [main] INFO ecommerce - Login Failed
+2020-01-04 13:08:40,545 [main] INFO ecommerce - User provided
+2020-01-04 13:08:40,630 [main] INFO ecommerce - Password provided
+2020-01-04 13:08:41,381 [main] INFO ecommerce - Login in Clicked
+2020-01-04 13:08:43,388 [main] INFO ecommerce - Login Failed
+2020-01-04 13:08:52,926 [main] INFO ecommerce - User name is provided
+2020-01-04 13:08:53,050 [main] INFO ecommerce - password is provided
+2020-01-04 13:08:57,875 [main] INFO ecommerce - providing customer details....
+2020-01-04 13:09:05,197 [main] INFO ecommerce - Providing email
+2020-01-04 13:09:06,333 [main] INFO ecommerce - Providing password
+2020-01-04 13:09:06,528 [main] INFO ecommerce - Providing Customer roles
+2020-01-04 13:10:52,960 [main] INFO ecommerce - User provided......
+2020-01-04 13:10:53,167 [main] INFO ecommerce - Password provided......
+2020-01-04 13:11:00,207 [main] INFO ecommerce - Login in Clicked......
+2020-01-04 13:11:07,928 [main] INFO ecommerce - Login Passed.....
